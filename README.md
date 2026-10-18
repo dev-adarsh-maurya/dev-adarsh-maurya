@@ -1,12 +1,12 @@
 ### ✨ʀᴇɢᴀʀᴅs
 <p align="center">
-  <a href="https://github.com/xadarsh" target="_blank">
+  <a href="https://github.com/dev-adarsh-maurya" target="_blank">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDFDFD&width=435&lines=%F0%9D%91%BB%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8C+%F0%9D%92%9A%F0%9D%92%90%F0%9D%92%96+%F0%9D%91%AD%F0%9D%92%90%F0%9D%92%93+%F0%9D%91%BD%F0%9D%92%8A%F0%9D%92%94%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%88+%F0%9D%91%B4%F0%9D%92%9A+%F0%9D%91%B7%F0%9D%92%93%F0%9D%92%90%F0%9D%92%87%F0%9D%92%8A%F0%9D%92%8D%F0%9D%92%86+%E2%9D%A3%EF%B8%8F%F0%9F%A5%80" alt="Typing SVG" /></a>
   </a>
 </p>
 
 
-<h2 align="center">𝙃𝙞 <img width="3%" src="https://github.com/xadarsh/xadarsh/blob/ba315f71f8535ccc6649e6515b2874c74225cfaa/Hi.gif"> 𝙄'𝙢 𝘼𝘿𝘼𝙍𝙎𝙃 <br>   A passionate Java developer from India</h2>
+<h2 align="center">𝙃𝙞 <img width="3%" src="https://github.com/dev-adarsh-maurya/dev-adarsh-maurya/blob/ba315f71f8535ccc6649e6515b2874c74225cfaa/Hi.gif"> 𝙄'𝙢 𝘼𝘿𝘼𝙍𝙎𝙃 <br>   A passionate Java developer from India</h2>
 
 ###
 
@@ -17,13 +17,13 @@
 ###
 <h3 align="left">😉𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚:</h3>
 <div align="center">
-    <a href="https://www.linkedin.com/in/xadarsh" target="_blank">
+    <a href="https://www.linkedin.com/in/dev-adarsh-maurya" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="74" height="35" alt="linkedin logo"  />
   </a>
     <a href="mailto:adarshmaurya541@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="74" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/xadarsh_x" target="_blank">
+  <a href="https://www.instagram.com/xadarsh.maurya" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="74" height="35" alt="instagram logo"  />
   </a>
   <a href="https://t.me/xadarsh_x" target="_blank">
@@ -75,8 +75,8 @@
 
 <h3 align="left">🔥   𝙈𝙮 𝙎𝙩𝙖𝙩𝙨:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xadarsh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=xadarsh&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-adarsh-maurya&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=dev-adarsh-maurya&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
 
@@ -85,7 +85,7 @@
 <h3 align="left">🔝 𝙏𝙤𝙥 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙚𝙙 𝙍𝙚𝙥𝙤:</h3>
 <div align="center">
 
-  ![](https://github-contributor-stats.vercel.app/api?username=xadarsh&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+  ![](https://github-contributor-stats.vercel.app/api?username=dev-adarsh-maurya&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
   
 </div>
 
@@ -94,9 +94,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xadarsh/xadarsh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xadarsh/xadarsh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/xadarsh/xadarsh/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-adarsh-maurya/dev-adarsh-maurya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-adarsh-maurya/dev-adarsh-maurya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dev-adarsh-maurya/dev-adarsh-maurya/output/github-snake.svg" />
 </picture>
 
 ###
